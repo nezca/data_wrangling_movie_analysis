@@ -29,7 +29,7 @@ project_step_5(plotting)_Julia.ipynb		← Jupyter Lab notbook file_5
 movie_data_step_final(tidyversion).csv		← The result file for tidy version
 movie_data_step_final.csv			← The result file for plotting version
 
-4. DATA422 Project dataset documentation.docx 	← definition for movie_data_step_final(tidyversion).csv
+4. DATA422 Project dataset documentation.pdf	← definition for movie_data_step_final(tidyversion).csv
 
 5. Data files to follow the all Jupyter notebook steps
 movies_df_1_900.csv 				← The result CSV file for API stage in the Jupyter notebook
